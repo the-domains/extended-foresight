@@ -6,9 +6,9 @@ color:
   saturation: 0.1868137107230723
   rhythmicContrast: 0.30790993059054017
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
 name: extended foresight
