@@ -1,0 +1,14 @@
+layout_spectrum: 0.19127884530462325
+typography_spectrum: 0.6377145661972463
+color:
+  brandStrength: 0.9742161862086505
+  lightness: 0.22944935644045472
+  saturation: 0.1868137107230723
+  rhythmicContrast: 0.30790993059054017
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: extended foresight
